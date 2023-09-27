@@ -1,0 +1,8 @@
+prefix=/home/ahaanbanerjee/DNT_ws/install
+
+Name: DNT
+Description: Description of DNT
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lDNT
+Requires: rospy std_msgs message_runtime

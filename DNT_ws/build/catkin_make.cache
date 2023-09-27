@@ -1,0 +1,2 @@
+DNT:robo_arm_description
+-DCATKIN_DEVEL_PREFIX=/home/ahaanbanerjee/DNT_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahaanbanerjee/DNT_ws/install -G Unix Makefiles
